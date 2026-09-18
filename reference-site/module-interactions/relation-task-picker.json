@@ -1,0 +1,237 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n返回列表\n新建关联规则\n\n配置测评结果与任务的关联规则，支持分数区间、维度得分、选项匹配和脚本导入四种方式\n\n取消\n保存规则\n基本信息\n测项目 *\n请选择测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评\n综合心理健康评估系列\n职业规划系列测评\n关联类型 *\n总分区间\n维度得分\n选项匹配\n脚本导入\n\n关联类型说明：\n\n总分区间：根据测评总分区间分配任务，如总分60-80分\n维度得分：根据特定题目范围的得分区间分配任务，如第1-5题得分60-80分\n选项匹配：根据特定题目的选项答案分配任务，如选择\"艺术型倾向\"\n脚本导入：通过JSON脚本批量配置复杂关联规则，适合大量规则场景\n触发条件配置\n已添加 0 个条件\n最低分 *\n最高分 *\n添加条件\n关联任务\n已选择 0 个任务\n选择任务\n选择关联任务\n已选择 0 个任务\n放松训练课程\n· 专业课\n正念冥想练习\n· AI练\n情绪管理课程\n· 专业课\n认知行为练习\n· 知行合一\n艺术创作工作坊\n· 线下课\n美学欣赏课程\n· 陪学营\n社交技能训练\n· 知行合一\n压力管理工作坊\n· 个性读\n取消\n确认选择 (0)",
+  "dialogs": [],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "text": "管理员",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测试项目管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "系列测评管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "报告模板管理（待研究）",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评上下架管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评结果",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "计划管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "计划列表",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "任务关联管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "关联规则配置",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "任务积分管理",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "积分规则配置",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "返回列表",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "取消",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "保存规则",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "text": "请选择测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评\n综合心理健康评估系列\n职业规划系列测评",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "score_range",
+      "checked": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "dimension",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "option",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "script",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "text": "60",
+      "value": "",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "text": "80",
+      "value": "",
+      "checked": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "添加条件",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "选择任务",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "text": "搜索任务名称...",
+      "value": "",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "取消",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "确认选择 (0)",
+      "value": ""
+    }
+  ]
+}

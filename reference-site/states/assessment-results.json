@@ -1,0 +1,155 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测评结果\n\n查看和管理测评参与者的测评记录与报告\n\n导出数据\n全部类型\n实名\n匿名\n全部状态\n已完成\n进行中\n已放弃\n用户信息\t测试项目\t用户类型\t用户群体\t得分\t完成时间\t状态\t操作\n\n张小明\nID: U001\n\t大五人格测试\t实名\t全体员工\t85\t2024-03-15 14:30\t已完成\t\n查看\n\n匿名用户001\nID: A001\n\t大五人格测试\t匿名\t新入职员工\t72\t2024-03-15 16:20\t已完成\t\n查看\n\n李小红\nID: U002\n\t职业压力测评\t实名\t中层管理\t58\t2024-03-16 10:15\t已完成\t\n查看\n\n王小刚\nID: U003\n\t职业压力测评\t实名\t一线员工\t-\t-\t进行中\t\n\n匿名用户002\nID: A002\n\t抑郁自评量表\t匿名\t全员\t42\t2024-03-14 09:30\t已完成\t\n查看",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "导出数据",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "搜索用户名、测试名称、人群...",
+      "disabled": false
+    },
+    {
+      "tag": "SELECT",
+      "type": null,
+      "role": null,
+      "text": "全部类型\n实名\n匿名",
+      "disabled": false
+    },
+    {
+      "tag": "SELECT",
+      "type": null,
+      "role": null,
+      "text": "全部状态\n已完成\n进行中\n已放弃",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "查看",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "查看",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "查看",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "查看",
+      "disabled": false
+    }
+  ]
+}

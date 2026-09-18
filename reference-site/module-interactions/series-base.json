@@ -1,0 +1,216 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n系列测评管理\n\n组合多个测评项目为系列，统一管理答题顺序\n\n新建系列\n系列名称\t包含项目\t总题数\t创建时间\t状态\t操作\n\n\n综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t\n\n\n\n职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+  "dialogs": [],
+  "buttons": [
+    {
+      "i": 0,
+      "text": "管理员",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-user w-4 h-4 text-blue-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 1,
+      "text": "测评管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-clipboard-list w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 2,
+      "text": "测试项目管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 3,
+      "text": "系列测评管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 4,
+      "text": "报告模板管理（待研究）",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 5,
+      "text": "测评上下架管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 6,
+      "text": "测评结果",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 7,
+      "text": "计划管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-calendar w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 8,
+      "text": "计划列表",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 9,
+      "text": "任务关联管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 10,
+      "text": "关联规则配置",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 11,
+      "text": "任务积分管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-coins w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 12,
+      "text": "积分规则配置",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 13,
+      "text": "新建系列",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-plus w-4 h-4 mr-2",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 14,
+      "text": "已启用",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 15,
+      "text": "",
+      "aria": null,
+      "title": "查看详情",
+      "svg": "lucide lucide-eye w-4 h-4",
+      "row": "综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 16,
+      "text": "",
+      "aria": null,
+      "title": "编辑",
+      "svg": "lucide lucide-pen w-4 h-4",
+      "row": "综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 17,
+      "text": "",
+      "aria": null,
+      "title": "删除",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4",
+      "row": "综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 18,
+      "text": "已启用",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 19,
+      "text": "",
+      "aria": null,
+      "title": "查看详情",
+      "svg": "lucide lucide-eye w-4 h-4",
+      "row": "职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 20,
+      "text": "",
+      "aria": null,
+      "title": "编辑",
+      "svg": "lucide lucide-pen w-4 h-4",
+      "row": "职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+      "disabled": false
+    },
+    {
+      "i": 21,
+      "text": "",
+      "aria": null,
+      "title": "删除",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4",
+      "row": "职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+      "disabled": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "name": null,
+      "placeholder": "搜索系列名称或描述...",
+      "value": "",
+      "text": "",
+      "options": []
+    }
+  ]
+}

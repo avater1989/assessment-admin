@@ -1,0 +1,169 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n系列测评管理\n\n组合多个测评项目为系列，统一管理答题顺序\n\n新建系列\n系列名称\t包含项目\t总题数\t创建时间\t状态\t操作\n\n\n综合心理健康评估\n\n包含心理健康、情绪管理和人际关系三个维度的综合评估\n\n\t\n心理健康测评\n情绪管理测评\n+1\n\t\n\n85 道题\n\n\t\n\n2025-01-20\n\n\t已启用\t\n\n\n\n职业规划系列测评\n\n帮助学生了解职业兴趣和性格特点，进行职业规划\n\n\t\n职业兴趣测评\n性格类型测评\n\t\n\n105 道题\n\n\t\n\n2025-01-18\n\n\t已启用\t",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "新建系列",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "搜索系列名称或描述...",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    }
+  ]
+}

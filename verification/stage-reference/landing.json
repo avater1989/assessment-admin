@@ -1,0 +1,201 @@
+{
+  "title": "测评 (Copy)",
+  "url": "https://void-ninth-65613617.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n新建项目\n独立测评\n补充测评\n排序\t项目名称\t类型\t题目数\t状态\t上下架\t创建时间\t操作\n\n1\n\t\n心理健康测评\n综合心理健康评估\n\t独立测评\t1\t草稿\t已下架\t2024-11-15\t\n配置题目\n评分规则\n上架",
+  "controls": [
+    {
+      "index": 0,
+      "tag": "BUTTON",
+      "text": "管理员",
+      "type": "button",
+      "value": "",
+      "html": "<button data-slot=\"dropdown-menu-trigger\" class=\"justify-center whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text"
+    },
+    {
+      "index": 1,
+      "tag": "BUTTON",
+      "text": "测评管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-clipboard-list w-5 h-5 text-gray-600\" aria-hidden=\"true\"><rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\" ry=\"1\"></rect><path d=\"M16 4h2a2 2 0 0 1 2 2"
+    },
+    {
+      "index": 2,
+      "tag": "BUTTON",
+      "text": "测试项目管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors bg-blue-50 text-blue-600\">测试项目管理</button>"
+    },
+    {
+      "index": 3,
+      "tag": "BUTTON",
+      "text": "系列测评管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">系列测评管理</button>"
+    },
+    {
+      "index": 4,
+      "tag": "BUTTON",
+      "text": "报告模板管理（待研究）",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">报告模板管理（待研究）</button>"
+    },
+    {
+      "index": 5,
+      "tag": "BUTTON",
+      "text": "测评上下架管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">测评上下架管理</button>"
+    },
+    {
+      "index": 6,
+      "tag": "BUTTON",
+      "text": "测评结果",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">测评结果</button>"
+    },
+    {
+      "index": 7,
+      "tag": "BUTTON",
+      "text": "计划管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calendar w-5 h-5 text-gray-600\" aria-hidden=\"true\"><path d=\"M8 2v4\"></path><path d=\"M16 2v4\"></path><rect width=\"18\" height=\"18\" x=\"3\" y=\"4\" rx=\"2\""
+    },
+    {
+      "index": 8,
+      "tag": "BUTTON",
+      "text": "计划列表",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">计划列表</button>"
+    },
+    {
+      "index": 9,
+      "tag": "BUTTON",
+      "text": "任务关联管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600\" aria-hidden=\"true\"><path d=\"M9 17H7A5 5 0 0 1 7 7h2\"></path><path d=\"M15 7h2a5 5 0 1 1 0 10h-2\"></path><"
+    },
+    {
+      "index": 10,
+      "tag": "BUTTON",
+      "text": "关联规则配置",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">关联规则配置</button>"
+    },
+    {
+      "index": 11,
+      "tag": "BUTTON",
+      "text": "任务积分管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins w-5 h-5 text-gray-600\" aria-hidden=\"true\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6"
+    },
+    {
+      "index": 12,
+      "tag": "BUTTON",
+      "text": "积分规则配置",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">积分规则配置</button>"
+    },
+    {
+      "index": 13,
+      "tag": "INPUT",
+      "text": "搜索项目名称、类型...",
+      "type": "",
+      "value": "",
+      "html": "<input data-slot=\"input\" class=\"file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input flex h-9 w-full min-w-0 rounded-md border px-3 py-1 text-base bg-input-background transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-ring"
+    },
+    {
+      "index": 14,
+      "tag": "BUTTON",
+      "text": "新建项目",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary"
+    },
+    {
+      "index": 15,
+      "tag": "BUTTON",
+      "text": "独立测评",
+      "type": "button",
+      "value": "",
+      "html": "<button type=\"button\" role=\"tab\" aria-selected=\"true\" aria-controls=\"radix-:r2:-content-independent\" data-state=\"active\" id=\"radix-:r2:-trigger-independent\" data-slot=\"tabs-trigger\" class=\"data-[state=active]:bg-card dark:data-[state=active]:text-foreground focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:outline-ring dark:data-[state=active]:border-input dark:data-[state=active]:bg-input/30 text-foreground dark:text-muted-foreground inline-flex h-[calc(100%-1px)] flex-1 items-"
+    },
+    {
+      "index": 16,
+      "tag": "BUTTON",
+      "text": "补充测评",
+      "type": "button",
+      "value": "",
+      "html": "<button type=\"button\" role=\"tab\" aria-selected=\"false\" aria-controls=\"radix-:r2:-content-supplementary\" data-state=\"inactive\" id=\"radix-:r2:-trigger-supplementary\" data-slot=\"tabs-trigger\" class=\"data-[state=active]:bg-card dark:data-[state=active]:text-foreground focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:outline-ring dark:data-[state=active]:border-input dark:data-[state=active]:bg-input/30 text-foreground dark:text-muted-foreground inline-flex h-[calc(100%-1px)] flex-1"
+    },
+    {
+      "index": 17,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-"
+    },
+    {
+      "index": 18,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-"
+    },
+    {
+      "index": 19,
+      "tag": "BUTTON",
+      "text": "配置题目",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-for"
+    },
+    {
+      "index": 20,
+      "tag": "BUTTON",
+      "text": "评分规则",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background text-f"
+    },
+    {
+      "index": 21,
+      "tag": "BUTTON",
+      "text": "上架",
+      "type": "",
+      "value": "",
+      "html": "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:"
+    }
+  ],
+  "rows": [
+    {
+      "index": 0,
+      "text": "排序\t项目名称\t类型\t题目数\t状态\t上下架\t创建时间\t操作",
+      "buttons": []
+    },
+    {
+      "index": 1,
+      "text": "1\n\t\n心理健康测评\n综合心理健康评估\n\t独立测评\t1\t草稿\t已下架\t2024-11-15\t\n配置题目\n评分规则\n上架",
+      "buttons": [
+        "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-",
+        "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-",
+        "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-for",
+        "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background text-f",
+        "<button data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background hover:"
+      ]
+    }
+  ]
+}

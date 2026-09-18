@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "projectCreated": true,
+    "emptyProjectBlockedFromShelf": true,
+    "projectBStartsEmpty": true,
+    "scaleSaved": true,
+    "branchSaved": true,
+    "projectIsolation": true,
+    "projectSort": true,
+    "projectScoringContext": true,
+    "groupQuestionPicker": true,
+    "scriptTest": true,
+    "scoringSaved": true,
+    "seriesSource": true,
+    "reportRegistryAvailable": true,
+    "projectShelfIntegrated": true,
+    "publishingModuleRemoved": true,
+    "reportTemplateModuleRemoved": true,
+    "planAssessmentSource": true,
+    "relationProjectSource": true,
+    "planRuleSource": true,
+    "persistedAfterReload": true
+  },
+  "allPassed": true,
+  "errors": []
+}

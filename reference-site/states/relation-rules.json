@@ -1,0 +1,260 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n任务关联管理\n\n配置测评结果与任务的关联规则\n\n新建关联规则\n\n关联规则总数\n\n5\n\n启用中\n\n5\n\n已停用\n\n0\n\n关联任务数\n\n10\n\n全部测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评\n测评项目\t关联类型\t触发条件\t关联任务\t创建时间\t状态\t操作\n\n\n心理健康测评\n\n\t分数区间\t\n\n焦虑维度得分 60-80 分\n\n\t\n放松训练课程\n正念冥想练习\n\t\n\n2025-01-15\n\n\t已启用\t\n\n\n\n心理健康测评\n\n\t维度得分\t\n\n抑郁维度得分 ≥ 70 分\n\n\t\n情绪管理课程\n认知行为练习\n\t\n\n2025-01-10\n\n\t已启用\t\n\n\n\n职业兴趣测评\n\n\t选项匹配\t\n\n艺术型倾向\n\n\t\n艺术创作工作坊\n美学欣赏课程\n\t\n\n2025-01-08\n\n\t已启用\t\n\n\n\n心理健康测评\n\n\t脚本导入\t\n\n通过脚本配置\n\n\t\n\n通过脚本配置\n\n\t\n\n2025-01-20\n\n\t已启用\t\n\n\n\n综合心理健康评估系列\n\n\t按照测评项目任务关联\t\n\n自动应用项目关联规则\n\n\t\n放松训练课程\n正念冥想练习\n+2\n\t\n\n2025-01-22\n\n\t已启用\t",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "新建关联规则",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "role": null,
+      "text": "搜索测评项目或任务名称...",
+      "disabled": false
+    },
+    {
+      "tag": "SELECT",
+      "type": null,
+      "role": null,
+      "text": "全部测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "已启用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    }
+  ]
+}

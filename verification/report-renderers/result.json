@@ -1,0 +1,19 @@
+{
+  "templateModuleRemoved": true,
+  "projectLevelLabel": true,
+  "projectOwnsReport": true,
+  "registryOptions": true,
+  "defaultRenderer": true,
+  "codeOwnedNotice": true,
+  "definitionUpdated": true,
+  "careerRenderer": true,
+  "bindingShown": true,
+  "realDataPreview": true,
+  "fallbackConfigured": true,
+  "questionsHaveNoReportConfig": true,
+  "persisted": true,
+  "resultUsesFallback": true,
+  "unboundProjectFallback": true,
+  "errors": [],
+  "allPassed": true
+}

@@ -1,0 +1,96 @@
+{
+  "title": "小鹅通-帮助中心",
+  "url": "https://helpcenter.xiaoe-tech.com/#/problem/detail?document_id=doc_6a545c8906351_eimin",
+  "text": "帮助中心\n视频号卖课教程\n店铺认证\n直播中控台\n常见问题\n新手专区\n全部教程\n直播\n新建直播\n直播管理\n直播数据\n直播中控台\n通用设置\n内容\n系列课\n班课管理\n内容管理\n圈子\n互动管理\n门店\n门店管理\n财务管理\nSCRM\n全域获客\n企微营销\n分销推广\n广告投放\n更多工具\n私域转化\n销售\n概况\n线索来源\n线索管理\n销售工具\n交易\n订单管理\n商品管理\n售后管理\n资产管理\n交易设置\n服务\n用户管理\n用户运营\n消息互动\n数据\n基础看板\nBI看板\n下载中心\n设置\n基础操作\n店铺装修\n资源管理\n店铺设置\n员工组织\n客服设置\n服务订购\n版权风险防控\n应用中心\nAI应用\n应用专区\n现场会务\n分销市场\n企业内训\n更多场景\n客户终端\nH5页面\n小程序\nApp\nSDK\nPC页面\nPC客户端\n企业培训\n新手指南\n课程管理\n直播管理\n学员管理\n数据中心\n店铺设置\n协议规则\n协议公示区\n规则公示区\n运营规范\n平台公告\n运营规范\n场景模板\n场景\n心理\n心理管理\n心理测评\n小鹅通claw\n快速开始\n认识小鹅通claw\n使用场景\n系列课/详情\n\n课程使用教程\n\n2026-07-14 16:38:54\n\n一、 功能介绍\n\n【课程】是一种更注重课程服务、注重学员学习效果的体系化课程。给如何教，如何学，如何评估学习效果带来一套灵活完善的解决方案。\n\n● 课程特色：内容上可与直播、多种助学工具组合，提供更流程的学练测体验；运营上支持学员随到随学、固定学习，提供多种目录解锁方式，满足各类定制学习计划需求。通过课程，能够提高教学质量与口碑，对学员进行精细化运营。\n\n● 支持的内容类型：直播、图文、音频、视频、文档、电子书、互动课；\n\n● 支持的互动工具：考试、作业、练习、打卡、表单、证书、测试互动。\n\n \n\n二、 使用目的\n\n课程专注打造学练测结合的体系化课程，为学员提供更极致的学习体验。管理者可对学员进行更精细的运营，提高学员学习效果，提升商家教学口碑及更多售卖收益。\n\n \n\n三、 使用场景\n\n1、随到随学非固定时间内容交付：训练营内添加内容、考试等，学员自主学习与刷题。\n\n2、固定时间内容服务：《7天理财小白体验营》、《21天摄影进阶课程》等设置固定时间开课，每天的学习任务有对应的课程、加强学习效果的日历打卡/作业打卡或者考试。通过精细化运营实现低转高转化，或者高客单价成交、强学习效果的目的。\n\n \n\n四、 操作路径\n\n商家端：店铺管理台 → 内容 → 系列课→ 新建课程\n\n\n\n\n五、 使用教程\n\n第一步：新建课程（管理后台）\n\n1、登录小鹅通管理台，从【课程】选择【系列课】→【新建】；\n\n \n\n2、内容信息\n\n填写课程名称、封面、简介和详情\n\n● 名称：可输入45字，建议输入14字内\n\n● 封面：建议上传比例 16:9 ，分辨率 750*420px ，小于 5M 的图片即可\n\n● 简介：输入上限为 256 字\n\n● 详情：课程内容的详情说明\n\n● 课程资料：可上传图文、音频、视频、文档（支持pdf、word、xls、ppt、zip等格式）文件，学员可预览或下载\n\n \n\n3、商品信息\n\n填写售卖设置，商品分组，上下架信息\n\n \n\n第二步：添加课程配置（管理后台）\n\n1、 课程创建完毕后，自动进入课程目录管理页，可创建子课程、章节或小节；\n\n目录层级结构为：课程-子课程-章节-小节\n\n点击【添加子课程】可添加一级目录；\n\n点击【添加章节】可添加一级目录或在子课程下添加二级目录；\n\n点击【添加小节】可添加各类课程内容，支持直播、图文、音频、视频、电子书、互动课、文档、打卡、考试、作业、练习、表单、测试互动；\n\n \n\n【添加小节】支持在当前页面新建，同时支持关联已有内容；\n\n【从已有课程导入】\n\n可以选择已创建的其他课程进行内容导入，导入的仅为课程的章节和内容，不包括其他课程的设置，若其他课程含有子课程，需选择相应的子课程内容进行导入（若后续内容进行更新，则导入的内容也会同步更新）\n\n \n\n\n\n\n2、 课程设置\n\n \n\n（1） 基本信息（创建时已填写，可跳过）\n\n填写名称、封面等基本课程信息，设置售卖方式。\n\n \n\n（2） 课程模式\n\n设置开课时间、解锁方式，消息提醒等功能。\n\n \n\n3、 商品设置\n\n● 【商品信息】可以设置课程商品的售卖相关属性\n\n○ 售卖方式：支持设置单独售卖信息，可选择免费、付费、加密和指定学员的售卖方式，并可配置课程有效期；选择付费时，还可配置【打包售卖】功能，与其他商品捆绑下单，提高订单客单价；另可设置课程加入截止时间，超过时间后学员不可再报名加入\n\n○ 商品分组：可快速将课程添加至商品分组内，便于分类管理\n\n● 【状态设置】支持设置课程的上架状态\n\n○ 当您设置【立即上架】时，该课程在发布时即可在店铺内显示、售卖；此状态下还可以设置定时下架时间、暂时停售（停售时仍在店铺内展示，但用户无法下单购买）\n\n○ 当您设置【定时上架】时，该课程将实现在特定时间上架至店铺，上架前不会在店铺内展示；此状态下还可以设置定时下架时间、暂时停售\n\n○ 当您设置【暂不上架】时，该课程将不会在店铺内显示\n\n○ 当您开启【隐藏】时，用户不可在店铺内通过搜索或任何列表进行访问，仅可通过链接方式访问、购买\n\n○ 上架后，若新建课程所属商品分组未在店铺装修中添加，需在新建课程后前往店铺装修添加该课程或所属商品分组才能在店铺中展示\n\n \n\n4、 运营管理\n\n● 【展示圈子】课程下方展示您添加的圈子（购课前，仅展示5条最新动态；若有精选，则优先展示5条最新精选）\n\n● 【信息采集】开启后，可在特定页面采集用户信息\n\n● 【SCRM分配】开启后，可在特定节点将CRM内无归属的用户，自动分配给员工或公海池进一步跟进\n\n● 【私域引流】开启后，可将用户引流至私域流量池\n\n● 【超级会员】设置课程关联的超级会员卡\n\n \n\n5、 用户列表\n\n● 【用户列表】用户列表处可展示该课程下所有学员的状态、参与状态、任务完成数、任务完成率、加入类型、加入时间。此列表支持导出；\n\n● 【添加用户】支持为学员添加课程权限，可单个添加或批量导入；\n\n \n\n6、 数据分析\n\n展示该课程下学员学习概况和交易、流量数据；\n\n \n\n第三步 分享课程（管理后台）\n\n课程列表或详情顶部，【操作】栏下点击【分享】进入分享弹窗，将链接/二维码分享至学员学习。\n\n \n\n其他相关场景及教程：\n\n1、学员进行分班，不同班级学的是同一个课程，可以使用「圈子」功能，具体教程可参考：\n\n圈子使用教程 、 如何在圈子里添加课程学习 、分班视频教程\n\n2、1个系列课支持单独售卖，系列课下支持多个章节内容支持另外单独售卖（具体步骤可点击进入视频教程）：\n\n1）把不同要售卖的内容都新建为新的课程，在创建好新的课程后，在课程目录中可使用「从已有课程导入」可一键导入需单独售卖的课程内容\n\n2）有三种方式进行多个课程的展示：\n\n① 商品推荐：在1个课程页面中学员点击「相关推荐」即可看到其他可购买的课程，具体教程可点击 商品推荐使用教程\n\n② 组合商品：在1个商品链接中学员可选择不同规格内容的课程进行购买，具体教程可点击 组合商品使用教程\n\n③ 微页面：在1个页面中支持自定义装修展示不同课程内容，具体教程可点击 移动端微页面使用教程 电脑端微页面使用教程\n\n\n\n\n相关其他教程：\n\n店铺装修\n\n交易收款\n\n推广员\n\n视频号卖货（自有店铺小程序）  视频号小店\n\n抖音卖货\n\n\n\n\n\n\n\n拓展阅读：\n\n训练营使用教程\n视频转码规则\n课程引导加群功能教程\n圈子使用教程\n日历打卡使用教程",
+  "images": [
+    {
+      "src": "http://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/default/cpGm8BC1753775356dt.jpg",
+      "alt": "",
+      "width": 1866,
+      "height": 686
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/4m7sehmrin1trp.png",
+      "alt": "image/png",
+      "width": 1353,
+      "height": 389
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/2yr6qkmrin2dcy.png",
+      "alt": "image/png",
+      "width": 1505,
+      "height": 914
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/65z3vjmrin35nz.png",
+      "alt": "image/png",
+      "width": 1343,
+      "height": 953
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/ie58bimrin43e9.png",
+      "alt": "image/png",
+      "width": 1636,
+      "height": 848
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/izoinvmrin4jof.png",
+      "alt": "image/png",
+      "width": 1828,
+      "height": 846
+    },
+    {
+      "src": "http://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/default/cFwD3Fi1753775356gL.jpg",
+      "alt": "",
+      "width": 1003,
+      "height": 759
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/q34xn0mrindusz.png",
+      "alt": "image/png",
+      "width": 1543,
+      "height": 735
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/jxr61tmrinekmk.png",
+      "alt": "image/png",
+      "width": 1454,
+      "height": 935
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/7o4jczmrinf4fd.png",
+      "alt": "image/png",
+      "width": 1369,
+      "height": 910
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/ytoobimring0cj.png",
+      "alt": "image/png",
+      "width": 1843,
+      "height": 951
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/pzhiulmrinhp3y.png",
+      "alt": "image/png",
+      "width": 1655,
+      "height": 724
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/b984qumrinj42r.png",
+      "alt": "image/png",
+      "width": 1638,
+      "height": 862
+    },
+    {
+      "src": "https://wechatapppro-1252524126.file.myqcloud.com/help_center_ooo/image/help_center_ooo/t0mw3ymrinknij.png",
+      "alt": "image/png",
+      "width": 1915,
+      "height": 828
+    }
+  ],
+  "errors": [
+    "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+    "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+    "Failed to load resource: net::ERR_CONNECTION_CLOSED"
+  ]
+}

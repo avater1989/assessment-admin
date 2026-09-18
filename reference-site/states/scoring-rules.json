@@ -1,0 +1,246 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n评分规则配置\n\n为 心理健康测评 配置评分规则和结果判定\n\n返回项目列表\n保存配置\n心理健康测评\n\n综合心理健康评估 · 1 道题目\n\n理论最高分\n\n10.0\n\n整体分值分段\n题目组合评分\n自定义脚本\n整体测评累计分值分段结果\n\n根据测评总分设置不同分数段的评估结果\n\n添加分段\n1\n最小分值\n最大分值\n结果标题\n结果描述\n分数范围: 0 - 30\n2\n最小分值\n最大分值\n结果标题\n结果描述\n分数范围: 31 - 60\n3\n最小分值\n最大分值\n结果标题\n结果描述\n分数范围: 61 - 100\n\n配置提示：\n\n• 分段范围应覆盖所有可能的分数，避免遗漏\n• 确保分段之间没有重叠或间隙\n• 理论最高分为: 10.0 分",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "返回项目列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "保存配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "整体分值分段",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "题目组合评分",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "自定义脚本",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "添加分段",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "如：心理健康状况良好",
+      "disabled": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": null,
+      "role": null,
+      "text": "详细描述该分数段的含义和建议",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "如：心理健康状况良好",
+      "disabled": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": null,
+      "role": null,
+      "text": "详细描述该分数段的含义和建议",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "如：心理健康状况良好",
+      "disabled": false
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": null,
+      "role": null,
+      "text": "详细描述该分数段的含义和建议",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    }
+  ]
+}

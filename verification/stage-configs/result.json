@@ -1,0 +1,23 @@
+{
+  "entryByPlanType": true,
+  "directShape": true,
+  "taskFilter": true,
+  "taskAssigned": true,
+  "unlock_point-value": true,
+  "unlock_task-ratio": true,
+  "unlock_point-ratio": true,
+  "livePreview": true,
+  "directSaved": true,
+  "assessmentShape": true,
+  "questionAutoSplit": true,
+  "customImportShape": true,
+  "customExample": true,
+  "assessmentSaved": true,
+  "relationShape": true,
+  "ruleGrouped": true,
+  "manualJsonImport": true,
+  "relationSaved": true,
+  "persisted": true,
+  "errors": [],
+  "allPassed": true
+}

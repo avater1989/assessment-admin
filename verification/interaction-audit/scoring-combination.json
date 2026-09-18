@@ -1,0 +1,228 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n评分规则配置\n\n为 心理健康测评 配置评分规则和结果判定\n\n返回项目列表\n保存配置\n心理健康测评\n\n综合心理健康评估 · 1 道题目\n\n理论最高分\n\n10.0\n\n整体分值分段\n题目组合评分\n自定义脚本\n不同题目组合分值累加结果\n\n对特定题目进行分组，单独评估各组的累计分数\n\n添加分组\n启用\n禁用\n选择题目 (0 题)\n选择题目\n\n暂未选择题目，点击\"选择题目\"按钮开始选择\n\n分段规则\n添加分段\n1\n2\n3\n\n配置提示：\n\n• 可以创建多个分组，分别评估不同维度（如焦虑、抑郁等）\n• 每个分组独立计算分数，不影响整体评分\n• 同一题目可以被多个分组使用",
+  "buttons": [
+    {
+      "text": "管理员",
+      "svg": "lucide lucide-user w-4 h-4 text-blue-600",
+      "row": ""
+    },
+    {
+      "text": "测评管理",
+      "svg": "lucide lucide-clipboard-list w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "测试项目管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "系列测评管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "报告模板管理（待研究）",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "测评上下架管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "测评结果",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "计划管理",
+      "svg": "lucide lucide-calendar w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "计划列表",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "任务关联管理",
+      "svg": "lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "关联规则配置",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "任务积分管理",
+      "svg": "lucide lucide-coins w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "积分规则配置",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "返回项目列表",
+      "svg": "lucide lucide-arrow-left w-4 h-4 mr-2",
+      "row": ""
+    },
+    {
+      "text": "保存配置",
+      "svg": "lucide lucide-save w-4 h-4 mr-2",
+      "row": ""
+    },
+    {
+      "text": "整体分值分段",
+      "svg": "lucide lucide-trending-up w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "题目组合评分",
+      "svg": "lucide lucide-chart-column w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "自定义脚本",
+      "svg": "lucide lucide-code w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "添加分组",
+      "svg": "lucide lucide-plus w-4 h-4 mr-2",
+      "row": ""
+    },
+    {
+      "text": "禁用",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4 text-red-600",
+      "row": ""
+    },
+    {
+      "text": "选择题目",
+      "svg": "lucide lucide-list w-4 h-4 mr-1",
+      "row": ""
+    },
+    {
+      "text": "添加分段",
+      "svg": "lucide lucide-plus w-4 h-4 mr-1",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4 text-red-600",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4 text-red-600",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4 text-red-600",
+      "row": ""
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "placeholder": "分组名称，如：焦虑评估、抑郁评估",
+      "value": "焦虑评估",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最小值",
+      "value": "0",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最大值",
+      "value": "20",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "placeholder": "结果标题",
+      "value": "无焦虑",
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "placeholder": "结果描述",
+      "value": "焦虑水平正常",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最小值",
+      "value": "21",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最大值",
+      "value": "40",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "placeholder": "结果标题",
+      "value": "轻度焦虑",
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "placeholder": "结果描述",
+      "value": "存在轻度焦虑倾向",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最小值",
+      "value": "41",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": "最大值",
+      "value": "100",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "placeholder": "结果标题",
+      "value": "严重焦虑",
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "placeholder": "结果描述",
+      "value": "焦虑水平较高，建议寻求帮助",
+      "options": []
+    }
+  ]
+}

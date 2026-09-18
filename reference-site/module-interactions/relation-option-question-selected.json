@@ -1,0 +1,204 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n返回列表\n新建关联规则\n\n配置测评结果与任务的关联规则，支持分数区间、维度得分、选项匹配和脚本导入四种方式\n\n取消\n保存规则\n基本信息\n测项目 *\n请选择测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评\n综合心理健康评估系列\n职业规划系列测评\n关联类型 *\n总分区间\n维度得分\n选项匹配\n脚本导入\n\n关联类型说明：\n\n总分区间：根据测评总分区间分配任务，如总分60-80分\n维度得分：根据特定题目范围的得分区间分配任务，如第1-5题得分60-80分\n选项匹配：根据特定题目的选项答案分配任务，如选择\"艺术型倾向\"\n脚本导入：通过JSON脚本批量配置复杂关联规则，适合大量规则场景\n触发条件配置\n已添加 0 个条件\n选择题目 *\n请选择题目\n第1题：您最近是否感到焦虑不安？\n第2题：您的睡眠质量如何？\n第3题：您是否感到情绪低落？\n第4题：您的压力水平何？\n第5题：您是否对日常活动失去兴趣？\n选择选项 *\n请选择选项\nA. 完全没有\nB. 偶尔有\nC. 经常有\nD. 总是如此\n添加条件\n关联任务\n已选择 0 个任务\n选择任务",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "text": "管理员",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测试项目管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "系列测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "报告模板管理（待研究）",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评上下架管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "测评结果",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "计划管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "计划列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "任务关联管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "关联规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "任务积分管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "积分规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "返回列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "取消",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "保存规则",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "text": "请选择测评项目\n心理健康测评\n职业兴趣测评\n学习能力测评\n综合心理健康评估系列\n职业规划系列测评",
+      "value": "",
+      "options": [
+        "请选择测评项目",
+        "心理健康测评",
+        "职业兴趣测评",
+        "学习能力测评",
+        "综合心理健康评估系列",
+        "职业规划系列测评"
+      ]
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "score_range",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "dimension",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "option",
+      "checked": true,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "text": "",
+      "value": "script",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "text": "请选择题目\n第1题：您最近是否感到焦虑不安？\n第2题：您的睡眠质量如何？\n第3题：您是否感到情绪低落？\n第4题：您的压力水平何？\n第5题：您是否对日常活动失去兴趣？",
+      "value": "q1",
+      "options": [
+        "请选择题目",
+        "第1题：您最近是否感到焦虑不安？",
+        "第2题：您的睡眠质量如何？",
+        "第3题：您是否感到情绪低落？",
+        "第4题：您的压力水平何？",
+        "第5题：您是否对日常活动失去兴趣？"
+      ]
+    },
+    {
+      "tag": "SELECT",
+      "type": "select-one",
+      "text": "请选择选项\nA. 完全没有\nB. 偶尔有\nC. 经常有\nD. 总是如此",
+      "value": "",
+      "options": [
+        "请选择选项",
+        "A. 完全没有",
+        "B. 偶尔有",
+        "C. 经常有",
+        "D. 总是如此"
+      ]
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "添加条件",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "text": "选择任务",
+      "value": "",
+      "options": []
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n新建计划\n\n创建新的测评计划\n\n保存计划\n计划名称 *\n计划描述\n创建方式 *\n直接选择任务\n\n选择智能体、线上课、线下课等任务，支持多选\n\n关联测评\n\n可选择单项测评或系列测评，仅能单选\n\n选择关联任务规则\n\n依据任务管理中的计划下发规则匹配规则，下发任务\n\n选择补充测评\n\n选择补充测评项目，支持多选，无需设置时间和目标群体\n\n任务选择 *\n\n选择智能体、线上课、线下课等任务，支持多选\n\n任务类型：\n全部\n智能体\n线上课\n线下课\n其他\nAI情绪管理助手\n智能体\n基于AI的情绪识别与调节指导\nAI学习规划助手\n智能体\n智能制定个性化学习计划\n情商培养AI导师\n智能体\nAI情商训练与提升\n心理健康知识讲座\n线上课\n在线心理健康教育课程\n情绪管理技巧培���\n线上课\n线上情绪调节方法学习\n团队协作训练营\n线下课\n线下团队建设活动\n户外素质拓展\n线下课\n户外团队协作与挑战\n个人成长工作坊\n其他\n个人能力提升工作坊\n开始时间\n结束时间\n目标群体 *\n选择方式\n画像标签\n手动添加\n手动添加人群\n一年级全体学生\n一年级\n120人\n二年级全体学生\n二年级\n115人\n三年级1-3班\n三年级 · 1班、2班、3班\n90人\n四年级全体学生\n四年级\n108人\n五年级全体学生\n五年级\n105人\n六年级全体学生\n六年级\n98人\n下发方式\n按个人下发\n按家庭下发",
+  "dialogs": [],
+  "buttons": [
+    {
+      "i": 0,
+      "text": "管理员",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-user w-4 h-4 text-blue-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 1,
+      "text": "测评管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-clipboard-list w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 2,
+      "text": "测试项目管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 3,
+      "text": "系列测评管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 4,
+      "text": "报告模板管理（待研究）",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 5,
+      "text": "测评上下架管理",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 6,
+      "text": "测评结果",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 7,
+      "text": "计划管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-calendar w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 8,
+      "text": "计划列表",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 9,
+      "text": "任务关联管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 10,
+      "text": "关联规则配置",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 11,
+      "text": "任务积分管理",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-coins w-5 h-5 text-gray-600",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 12,
+      "text": "积分规则配置",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 13,
+      "text": "",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-arrow-left w-5 h-5",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 14,
+      "text": "保存计划",
+      "aria": null,
+      "title": null,
+      "svg": "lucide lucide-save w-4 h-4",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 15,
+      "text": "全部",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 16,
+      "text": "智能体",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 17,
+      "text": "线上课",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 18,
+      "text": "线下课",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    },
+    {
+      "i": 19,
+      "text": "其他",
+      "aria": null,
+      "title": null,
+      "svg": "",
+      "row": "",
+      "disabled": false
+    }
+  ],
+  "controls": [
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "text",
+      "name": null,
+      "placeholder": "请输入计划名称",
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "role": null,
+      "type": null,
+      "name": null,
+      "placeholder": "请输入计划描述",
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "creationMethod",
+      "placeholder": null,
+      "value": "task-based",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "creationMethod",
+      "placeholder": null,
+      "value": "assessment-based",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "creationMethod",
+      "placeholder": null,
+      "value": "association-rule-based",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "creationMethod",
+      "placeholder": null,
+      "value": "supplementary",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "text",
+      "name": null,
+      "placeholder": "搜索任务名称或描述...",
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "date",
+      "name": null,
+      "placeholder": null,
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "date",
+      "name": null,
+      "placeholder": null,
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "targetSelectionMethod",
+      "placeholder": null,
+      "value": "profile-tags",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "targetSelectionMethod",
+      "placeholder": null,
+      "value": "manual",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "text",
+      "name": null,
+      "placeholder": "搜索群体名称、年级、班级...",
+      "value": "",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "value": "on",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "deliveryMode",
+      "placeholder": null,
+      "value": "individual",
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "radio",
+      "name": "deliveryMode",
+      "placeholder": null,
+      "value": "family",
+      "text": "",
+      "options": []
+    }
+  ]
+}

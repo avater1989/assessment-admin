@@ -1,0 +1,162 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n新建项目\n独立测评\n补充测评\n排序\t项目名称\t类型\t题目数\t状态\t上下架\t创建时间\t操作\n\n2\n\t\n压力自评补充\n用于补充评估当前压力水平\n\t补充测评\t1\t已发布\t已上架\t2024-11-20\t\n配置题目\n评分规则\n下架",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "搜索项目名称、类型...",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "新建项目",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "独立测评",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "补充测评",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": true
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": true
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "配置题目",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "评分规则",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    }
+  ]
+}

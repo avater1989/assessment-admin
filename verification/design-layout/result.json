@@ -1,0 +1,13 @@
+{
+  "desktopShell": true,
+  "leftMenuHierarchy": true,
+  "allModulesInSidebar": true,
+  "planContext": true,
+  "listPattern": true,
+  "collapsedDesktop": true,
+  "tabletRail": true,
+  "mobileDrawerClosed": true,
+  "mobileDrawerOpen": true,
+  "errors": [],
+  "allPassed": true
+}

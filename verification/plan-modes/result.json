@@ -1,0 +1,13 @@
+{
+  "taskMode": true,
+  "taskFilter": true,
+  "profileTarget": true,
+  "assessmentMode": true,
+  "ruleMode": true,
+  "ruleMulti": true,
+  "supplementaryMode": true,
+  "saved": true,
+  "savedMethod": true,
+  "errors": [],
+  "allPassed": true
+}

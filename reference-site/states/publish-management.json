@@ -1,0 +1,246 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测评上下架管理\n\n统一管理测评项目和系列测评的上下架状态及小程序展示顺序\n\n全部测评\n\n8\n\n已上架\n\n5\n\n已下架\n\n1\n\n待上架\n\n2\n\n测评管理\n已上架测评排序\n全部状态\n全部分类\n测评名称\t类型\t分类\t题目数\t上架状态\t完成人数\t时间\t操作\n\n\n学习能力综合测评\n\n学习能力\n综合评估\n认知能力\n\t单项\t能力测评\t45 题\t已上架\t256\t\n上架: 2024-01-15\n\t\n详情\n下架\n\n\n\n心理健康测评\n\n心理健康\n情绪管理\n压力评估\n\t单项\t心理测评\t60 题\t已上架\t189\t\n上架: 2024-02-01\n\t\n详情\n下架\n\n\n\n综合心理健康评估\n\n系列测评\n心理健康\n综合评估\n\t系列\t系列测评\t85 题\t已上架\t145\t\n上架: 2024-03-20\n\t\n详情\n下架\n\n\n\n职业兴趣测评\n\n职业规划\n兴趣测试\n未来发展\n\t单项\t职业规划\t50 题\t已下架\t0\t\n下架: 2024-11-10\n\t\n详情\n上架\n\n\n\n数学思维能力测评\n\n数学\n逻辑思维\n问题解决\n\t单项\t学科测评\t30 题\t待上架\t0\t\n待处理\n\t\n详情\n上架\n\n\n\n英语水平测评\n\n英语\n语言能力\n综合测试\n\t单项\t学科测评\t40 题\t已上架\t334\t\n上架: 2024-03-01\n\t\n详情\n下架\n\n\n\n创新思维测评\n\n创新思维\n创造力\n发散思维\n\t单项\t能力测评\t35 题\t已上架\t178\t\n上架: 2024-03-15\n\t\n详情\n下架\n\n\n\n职业规划系列测评\n\n系列测评\n职业规划\n兴趣探索\n\t系列\t系列测评\t105 题\t待上架\t0\t\n待处理\n\t\n详情\n上架",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "tab",
+      "text": "已上架测评排序",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "role": null,
+      "text": "搜索测评名称或描述...",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "combobox",
+      "text": "全部状态",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": "combobox",
+      "text": "全部分类",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "上架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "上架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "下架",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "详情",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "上架",
+      "disabled": false
+    }
+  ]
+}

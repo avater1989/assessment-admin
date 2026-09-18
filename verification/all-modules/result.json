@@ -1,0 +1,21 @@
+{
+  "seriesCreated": true,
+  "seriesFiltered": true,
+  "publishingModuleRemoved": true,
+  "reportTemplateModuleRemoved": true,
+  "registeredReportPreview": true,
+  "reportConfigured": true,
+  "projectShelfToggled": true,
+  "projectShelfFiltered": true,
+  "resultDetail": true,
+  "resultExport": true,
+  "planCreated": true,
+  "planPublished": true,
+  "relationMultiSelectCount": true,
+  "relationSelectionShown": true,
+  "relationCreated": true,
+  "relationToggled": true,
+  "pointsModuleRemoved": true,
+  "errors": [],
+  "allPassed": true
+}

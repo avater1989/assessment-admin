@@ -1,0 +1,23 @@
+{
+  "planPermissions": true,
+  "stageSaved": true,
+  "profileTags": true,
+  "seriesPicker": true,
+  "seriesOrder": true,
+  "seriesRelationModes": true,
+  "seriesTasksAutoDerived": true,
+  "seriesRelationSaved": true,
+  "publishingModuleRemoved": true,
+  "projectShelfIntegrated": true,
+  "seriesShelfIntegrated": true,
+  "seriesDisplayOrder": true,
+  "realReportPreview": true,
+  "reportBinding": true,
+  "reportTemplateModuleRemoved": true,
+  "filteredExport": true,
+  "pointsModuleRemoved": true,
+  "accountSettings": true,
+  "logoutConfirm": true,
+  "errors": [],
+  "allPassed": true
+}

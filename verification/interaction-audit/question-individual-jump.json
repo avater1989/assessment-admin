@@ -1,0 +1,111 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n← 返回项目列表\n心理健康测评\n\n综合心理健康评估 · 1 道题目\n\n草稿\n题目列表\n整体跳转规则配置\n新建题目\n1\n你最近是否感到情绪低落？\n单选\n必答\n情绪状态\n权重: 1\n选项：从不(0分) / 偶尔(1分) / 经常(2分) / 总是(3分)",
+  "buttons": [
+    {
+      "text": "管理员",
+      "svg": "lucide lucide-user w-4 h-4 text-blue-600",
+      "row": ""
+    },
+    {
+      "text": "测评管理",
+      "svg": "lucide lucide-clipboard-list w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "测试项目管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "系列测评管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "报告模板管理（待研究）",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "测评上下架管理",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "测评结果",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "计划管理",
+      "svg": "lucide lucide-calendar w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "计划列表",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "任务关联管理",
+      "svg": "lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "关联规则配置",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "任务积分管理",
+      "svg": "lucide lucide-coins w-5 h-5 text-gray-600",
+      "row": ""
+    },
+    {
+      "text": "积分规则配置",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "← 返回项目列表",
+      "svg": "",
+      "row": ""
+    },
+    {
+      "text": "整体跳转规则配置",
+      "svg": "lucide lucide-network w-4 h-4 mr-2",
+      "row": ""
+    },
+    {
+      "text": "新建题目",
+      "svg": "lucide lucide-plus w-4 h-4 mr-2",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-chevron-up w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-chevron-down w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-git-branch w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-square-pen w-4 h-4",
+      "row": ""
+    },
+    {
+      "text": "",
+      "svg": "lucide lucide-trash2 lucide-trash-2 w-4 h-4 text-red-600",
+      "row": ""
+    }
+  ],
+  "controls": []
+}

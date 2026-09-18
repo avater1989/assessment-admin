@@ -1,0 +1,234 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n← 返回项目列表\n心理健康测评\n\n综合心理健康评估 · 1 道题目\n\n草稿\n题目列表\n整体跳转规则配置\n新建题目\n1\n你最近是否感到情绪低落？\n单选\n必答\n情绪状态\n权重: 1\n选项：从不(0分) / 偶尔(1分) / 经常(2分) / 总是(3分)\n整体跳转规则配置\n\n配置基于多题累计分数的全局跳转规则，支持可视化配置和脚本导入\n\n可视化配置\n脚本配置\n全局跳转规则\n导出规则\n添加规则\n\n暂无全局跳转规则\n\n点击\"添加规则\"创建基于累计分数的跳转逻辑\n\n💡 提示\n• 全局规则在每次用户回答题目后都会被检查\n• 规则按顺序执行，第一个匹配的规则会被触发\n• 可以临时禁用规则而不删除，方便测试\n• 适用于\"前N题累计分数超过X分则跳转\"的场景\n取消\n保存配置\nClose",
+  "dialogs": [
+    "整体跳转规则配置\n\n配置基于多题累计分数的全局跳转规则，支持可视化配置和脚本导入\n\n可视化配置\n脚本配置\n全局跳转规则\n导出规则\n添加规则\n\n暂无全局跳转规则\n\n点击\"添加规则\"创建基于累计分数的跳转逻辑\n\n💡 提示\n• 全局规则在每次用户回答题目后都会被检查\n• 规则按顺序执行，第一个匹配的规则会被触发\n• 可以临时禁用规则而不删除，方便测试\n• 适用于\"前N题累计分数超过X分则跳转\"的场景\n取消\n保存配置\nClose"
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": "button",
+      "text": "管理员",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测试项目管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "系列测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "报告模板管理（待研究）",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评上下架管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评结果",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务关联管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "关联规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务积分管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "积分规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "← 返回项目列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "整体跳转规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "新建题目",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": "tab",
+      "type": "button",
+      "text": "可视化配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": "tab",
+      "type": "button",
+      "text": "脚本配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "导出规则",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "添加规则",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "取消",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "保存配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": "button",
+      "text": "Close",
+      "value": "",
+      "options": []
+    }
+  ]
+}

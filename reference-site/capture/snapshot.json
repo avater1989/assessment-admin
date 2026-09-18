@@ -1,0 +1,345 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "viewport": {
+    "width": 1280,
+    "height": 1080
+  },
+  "documentSize": {
+    "width": 1280,
+    "height": 1080
+  },
+  "bodyText": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n新建项目\n独立测评\n补充测评\n排序\t项目名称\t类型\t题目数\t状态\t上下架\t创建时间\t操作\n\n1\n\t\n心理健康测评\n综合心理健康评估\n\t独立测评\t1\t草稿\t已下架\t2024-11-15\t\n配置题目\n评分规则\n上架",
+  "scrollables": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": "button",
+      "text": "管理员",
+      "selector": "#radix-:r0:",
+      "rect": {
+        "x": 1142,
+        "y": 13.5,
+        "width": 114,
+        "height": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评管理",
+      "selector": "div.flex.pt-16 > aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > button.w-full.flex.items-center",
+      "rect": {
+        "x": 16,
+        "y": 80,
+        "width": 223,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测试项目管理",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > div.mt-1.ml-4 > button.w-full.text-left.px-3:nth-of-type(1)",
+      "rect": {
+        "x": 32,
+        "y": 124,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "系列测评管理",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > div.mt-1.ml-4 > button.w-full.text-left.px-3:nth-of-type(2)",
+      "rect": {
+        "x": 32,
+        "y": 164,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "报告模板管理（待研究）",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > div.mt-1.ml-4 > button.w-full.text-left.px-3:nth-of-type(3)",
+      "rect": {
+        "x": 32,
+        "y": 204,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评上下架管理",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > div.mt-1.ml-4 > button.w-full.text-left.px-3:nth-of-type(4)",
+      "rect": {
+        "x": 32,
+        "y": 244,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评结果",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(1) > div.mt-1.ml-4 > button.w-full.text-left.px-3:nth-of-type(5)",
+      "rect": {
+        "x": 32,
+        "y": 284,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划管理",
+      "selector": "div.flex.pt-16 > aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(2) > button.w-full.flex.items-center",
+      "rect": {
+        "x": 16,
+        "y": 332,
+        "width": 223,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划列表",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(2) > div.mt-1.ml-4 > button.w-full.text-left.px-3",
+      "rect": {
+        "x": 32,
+        "y": 376,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务关联管理",
+      "selector": "div.flex.pt-16 > aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(3) > button.w-full.flex.items-center",
+      "rect": {
+        "x": 16,
+        "y": 424,
+        "width": 223,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "关联规则配置",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(3) > div.mt-1.ml-4 > button.w-full.text-left.px-3",
+      "rect": {
+        "x": 32,
+        "y": 468,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务积分管理",
+      "selector": "div.flex.pt-16 > aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(4) > button.w-full.flex.items-center",
+      "rect": {
+        "x": 16,
+        "y": 516,
+        "width": 223,
+        "height": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "积分规则配置",
+      "selector": "aside.fixed.left-0.top-16 > nav.p-4 > div.mb-2:nth-of-type(4) > div.mt-1.ml-4 > button.w-full.text-left.px-3",
+      "rect": {
+        "x": 32,
+        "y": 560,
+        "width": 207,
+        "height": 40
+      }
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "text": "搜索项目名称、类型...",
+      "selector": "main.flex-1.ml-64.p-8 > div > div.flex.items-center.justify-between:nth-of-type(2) > div.relative.flex-1.max-w-md > input.file:text-foreground.placeholder:text-muted-foreground.selection:bg-primary",
+      "rect": {
+        "x": 288,
+        "y": 178,
+        "width": 448,
+        "height": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "新建项目",
+      "selector": "div.flex.pt-16 > main.flex-1.ml-64.p-8 > div > div.flex.items-center.justify-between:nth-of-type(2) > button.inline-flex.items-center.justify-center",
+      "rect": {
+        "x": 1136,
+        "y": 178,
+        "width": 112,
+        "height": 36
+      }
+    },
+    {
+      "tag": "DIV",
+      "role": "tablist",
+      "type": null,
+      "text": "独立测评\n补充测评",
+      "selector": "div.flex.pt-16 > main.flex-1.ml-64.p-8 > div > div.flex.flex-col.gap-2:nth-of-type(3) > div.bg-muted.text-muted-foreground.h-9:nth-of-type(1)",
+      "rect": {
+        "x": 288,
+        "y": 230,
+        "width": 960,
+        "height": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": "tab",
+      "type": "button",
+      "text": "独立测评",
+      "selector": "#radix-:r2:-trigger-independent",
+      "rect": {
+        "x": 291,
+        "y": 233.5,
+        "width": 477,
+        "height": 29
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": "tab",
+      "type": "button",
+      "text": "补充测评",
+      "selector": "#radix-:r2:-trigger-supplementary",
+      "rect": {
+        "x": 768,
+        "y": 233.5,
+        "width": 477,
+        "height": 29
+      }
+    },
+    {
+      "tag": "DIV",
+      "role": "tabpanel",
+      "type": null,
+      "text": "排序\t项目名称\t类型\t题目数\t状态\t上下架\t创建时间\t操作\n\n1\n\t\n心理健康测评\n综合心理健康评估\n\t独立测评\t1\t草稿\t已下架\t2024-11-15\t\n配置题目\n评分规则\n上架",
+      "selector": "#radix-:r2:-content-independent",
+      "rect": {
+        "x": 288,
+        "y": 290,
+        "width": 960,
+        "height": 134.5
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "selector": "tbody.[&_tr:last-child]:border-0 > tr.hover:bg-muted/50.data-[state=selected]:bg-muted.border-b > td.p-2.align-middle.whitespace-nowrap:nth-of-type(1) > div.flex.flex-col.items-center > button.inline-flex.items-center.justify-center:nth-of-type(1)",
+      "rect": {
+        "x": 309,
+        "y": 339.5,
+        "width": 24,
+        "height": 24
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "selector": "tbody.[&_tr:last-child]:border-0 > tr.hover:bg-muted/50.data-[state=selected]:bg-muted.border-b > td.p-2.align-middle.whitespace-nowrap:nth-of-type(1) > div.flex.flex-col.items-center > button.inline-flex.items-center.justify-center:nth-of-type(2)",
+      "rect": {
+        "x": 309,
+        "y": 391.5,
+        "width": 24,
+        "height": 24
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "配置题目",
+      "selector": "tbody.[&_tr:last-child]:border-0 > tr.hover:bg-muted/50.data-[state=selected]:bg-muted.border-b > td.p-2.align-middle.whitespace-nowrap:nth-of-type(8) > div.flex.justify-end.gap-2 > button.inline-flex.items-center.justify-center:nth-of-type(1)",
+      "rect": {
+        "x": 941,
+        "y": 361.5,
+        "width": 102,
+        "height": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "评分规则",
+      "selector": "tbody.[&_tr:last-child]:border-0 > tr.hover:bg-muted/50.data-[state=selected]:bg-muted.border-b > td.p-2.align-middle.whitespace-nowrap:nth-of-type(8) > div.flex.justify-end.gap-2 > button.inline-flex.items-center.justify-center:nth-of-type(2)",
+      "rect": {
+        "x": 1051,
+        "y": 361.5,
+        "width": 104,
+        "height": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "上架",
+      "selector": "tbody.[&_tr:last-child]:border-0 > tr.hover:bg-muted/50.data-[state=selected]:bg-muted.border-b > td.p-2.align-middle.whitespace-nowrap:nth-of-type(8) > div.flex.justify-end.gap-2 > button.inline-flex.items-center.justify-center:nth-of-type(3)",
+      "rect": {
+        "x": 1163,
+        "y": 361.5,
+        "width": 76,
+        "height": 32
+      }
+    },
+    {
+      "tag": "DIV",
+      "role": "tabpanel",
+      "type": null,
+      "text": "",
+      "selector": "#radix-:r2:-content-supplementary",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    }
+  ],
+  "stylesheets": [
+    "https://mentor-morse-78994253.figma.site/_components/v2/64da1454360e8d134ebb211ca1d9b0e0592216f0.css"
+  ],
+  "images": []
+}

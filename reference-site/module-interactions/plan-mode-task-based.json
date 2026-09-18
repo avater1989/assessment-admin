@@ -1,0 +1,416 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n新建计划\n\n创建新的测评计划\n\n保存计划\n计划名称 *\n计划描述\n创建方式 *\n直接选择任务\n\n选择智能体、线上课、线下课等任务，支持多选\n\n关联测评\n\n可选择单项测评或系列测评，仅能单选\n\n选择关联任务规则\n\n依据任务管理中的计划下发规则匹配规则，下发任务\n\n选择补充测评\n\n选择补充测评项目，支持多选，无需设置时间和目标群体\n\n任务选择 *\n\n选择智能体、线上课、线下课等任务，支持多选\n\n任务类型：\n全部\n智能体\n线上课\n线下课\n其他\nAI情绪管理助手\n智能体\n基于AI的情绪识别与调节指导\nAI学习规划助手\n智能体\n智能制定个性化学习计划\n情商培养AI导师\n智能体\nAI情商训练与提升\n心理健康知识讲座\n线上课\n在线心理健康教育课程\n情绪管理技巧培���\n线上课\n线上情绪调节方法学习\n团队协作训练营\n线下课\n线下团队建设活动\n户外素质拓展\n线下课\n户外团队协作与挑战\n个人成长工作坊\n其他\n个人能力提升工作坊\n开始时间\n结束时间\n目标群体 *\n选择方式\n画像标签\n手动添加\n手动添加人群\n一年级全体学生\n一年级\n120人\n二年级全体学生\n二年级\n115人\n三年级1-3班\n三年级 · 1班、2班、3班\n90人\n四年级全体学生\n四年级\n108人\n五年级全体学生\n五年级\n105人\n六年级全体学生\n六年级\n98人\n下发方式\n按个人下发\n按家庭下发",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "text": "管理员",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测试项目管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "系列测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "报告模板管理（待研究）",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评上下架管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评结果",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "计划管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "计划列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "任务关联管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "关联规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "任务积分管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "积分规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "保存计划",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "text": "请输入计划名称",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "",
+      "text": "请输入计划描述",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "task-based",
+      "checked": true,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "assessment-based",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "association-rule-based",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "supplementary",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "text": "搜索任务名称或描述...",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "全部",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "智能体",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "线上课",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "线下课",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "其他",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "date",
+      "name": "",
+      "text": "",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "date",
+      "name": "",
+      "text": "",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "targetSelectionMethod",
+      "text": "",
+      "value": "profile-tags",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "targetSelectionMethod",
+      "text": "",
+      "value": "manual",
+      "checked": true,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "text": "搜索群体名称、年级、班级...",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "deliveryMode",
+      "text": "",
+      "value": "individual",
+      "checked": true,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "deliveryMode",
+      "text": "",
+      "value": "family",
+      "checked": false,
+      "options": []
+    }
+  ]
+}

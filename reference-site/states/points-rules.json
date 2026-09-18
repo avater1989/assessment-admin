@@ -1,0 +1,232 @@
+{
+  "title": "测评",
+  "url": "https://mentor-morse-78994253.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n任务积分管理\n\n为各类型任务设置积分奖励规则\n\n新建积分规则\n全部类型\nAI智能体\n线上课程\n线下课程\n练习任务\n阅读任务\n其他任务\n全部状态\n启用中\n已停用\n\n总规则数\n\n5\n\n启用中\n\n5\n\n已停用\n\n0\n\n平均积分\n\n22\n\n任务类型\t任务名称\t单次积分\t完成要求\t总积分\t状态\t更新时间\t操作\nAI智能体\t\nAI情绪管理助手\n完成一次对话即可获得积分\n\t\n10\n\t1 次\t\n10\n\t启用中\t2025-01-10\t\n\n线上课程\t\n心理健康知识讲座\n完整观看课程并通过测验\n\t\n20\n\t1 次\t\n20\n\t启用中\t2025-01-15\t\n\n线下课程\t\n团队协作训练营\n参加并完成线下活动\n\t\n50\n\t1 次\t\n50\n\t启用中\t2025-01-20\t\n\n练习任务\t\n正念冥想练习\n完成3次练习获得全部积分\n\t\n5\n\t3 次\t\n15\n\t启用中\t2025-01-18\t\n\n阅读任务\t\n情绪管理书籍阅读\n完成2次阅读打卡\n\t\n8\n\t2 次\t\n16\n\t启用中\t2025-01-22\t",
+  "dialogs": [],
+  "interactive": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "text": "管理员",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测试项目管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "系列测评管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "报告模板管理（待研究）",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评上下架管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "测评结果",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "计划列表",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务关联管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "关联规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "任务积分管理",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "积分规则配置",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "新建积分规则",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "role": null,
+      "text": "搜索任务名称或描述",
+      "disabled": false
+    },
+    {
+      "tag": "SELECT",
+      "type": null,
+      "role": null,
+      "text": "全部类型\nAI智能体\n线上课程\n线下课程\n练习任务\n阅读任务\n其他任务",
+      "disabled": false
+    },
+    {
+      "tag": "SELECT",
+      "type": null,
+      "role": null,
+      "text": "全部状态\n启用中\n已停用",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "启用中",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "启用中",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "启用中",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "启用中",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "启用中",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "text": "",
+      "disabled": false
+    }
+  ]
+}

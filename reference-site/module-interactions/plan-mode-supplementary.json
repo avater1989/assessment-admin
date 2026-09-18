@@ -1,0 +1,223 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n新建计划\n\n创建新的测评计划\n\n保存计划\n计划名称 *\n计划描述\n创建方式 *\n直接选择任务\n\n选择智能体、线上课、线下课等任务，支持多选\n\n关联测评\n\n可选择单项测评或系列测评，仅能单选\n\n选择关联任务规则\n\n依据任务管理中的计划下发规则匹配规则，下发任务\n\n选择补充测评\n\n选择补充测评项目，支持多选，无需设置时间和目标群体\n\n补充测评选择 *\n\n选择补充测评项目，支持多选\n\n压力自评补充\n补充测评 · 1题\n情绪状态快速评估\n补充测评 · 1题\n睡眠质量评估\n补充测评 · 1题\n注意力状态评估\n补充测评 · 1题",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "text": "管理员",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测试项目管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "系列测评管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "报告模板管理（待研究）",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评上下架管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "测评结果",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "计划管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "计划列表",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "任务关联管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "关联规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "任务积分管理",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "积分规则配置",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "text": "保存计划",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "text": "请输入计划名称",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "",
+      "text": "请输入计划描述",
+      "value": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "task-based",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "assessment-based",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "association-rule-based",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "creationMethod",
+      "text": "",
+      "value": "supplementary",
+      "checked": true,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "text": "搜索补充测评...",
+      "value": "",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "text": "",
+      "value": "on",
+      "checked": false,
+      "options": []
+    }
+  ]
+}

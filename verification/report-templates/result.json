@@ -1,0 +1,15 @@
+{
+  "defaultBlocks": true,
+  "dataBindings": true,
+  "blockOrder": true,
+  "conditionHidden": true,
+  "conditionVisible": true,
+  "created": true,
+  "savedPreview": true,
+  "duplicated": true,
+  "versioned": true,
+  "versionHistory": true,
+  "persisted": true,
+  "errors": [],
+  "allPassed": true
+}

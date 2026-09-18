@@ -1,0 +1,320 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n测试项目管理\n\n创建和管理测评项目，配置题目和评分规则\n\n← 返回项目列表\n心理健康测评\n\n综合心理健康评估 · 1 道题目\n\n草稿\n题目列表\n整体跳转规则配置\n新建题目\n1\n你最近是否感到情绪低落？\n单选\n必答\n情绪状态\n权重: 1\n选项：从不(0分) / 偶尔(1分) / 经常(2分) / 总是(3分)\n编辑题目\n\n配置题目内容、权重和评分选项\n\n题目内容 *\n题目类型 *\n单选题\n题目分类\n题目权重 *\n此题为必答题\n选项列表（选项内容 + 分数）*\n添加选项\nA\nB\nC\n\n提示：为每个选项设置对应的分数，用于评分计算\n\n取消\n保存\nClose",
+  "dialogs": [
+    "编辑题目\n\n配置题目内容、权重和评分选项\n\n题目内容 *\n题目类型 *\n单选题\n题目分类\n题目权重 *\n此题为必答题\n选项列表（选项内容 + 分数）*\n添加选项\nA\nB\nC\n\n提示：为每个选项设置对应的分数，用于评分计算\n\n取消\n保存\nClose"
+  ],
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": "button",
+      "text": "管理员",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测试项目管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "系列测评管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "报告模板管理（待研究）",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评上下架管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "测评结果",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "计划列表",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务关联管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "关联规则配置",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "任务积分管理",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "积分规则配置",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "← 返回项目列表",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "整体跳转规则配置",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "新建题目",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "TEXTAREA",
+      "role": null,
+      "type": null,
+      "text": "请输入题目内容",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": "combobox",
+      "type": "button",
+      "text": "单选题",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "text": "如：情绪状态",
+      "value": "",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "number",
+      "text": "1",
+      "value": "1",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "checkbox",
+      "text": "",
+      "value": "on",
+      "checked": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "添加选项",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "text": "选项内容",
+      "value": "选项1",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "number",
+      "text": "分数",
+      "value": "0",
+      "checked": false
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "text": "选项内容",
+      "value": "选项2",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "number",
+      "text": "分数",
+      "value": "1",
+      "checked": false
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": null,
+      "text": "选项内容",
+      "value": "选项3",
+      "checked": false
+    },
+    {
+      "tag": "INPUT",
+      "role": null,
+      "type": "number",
+      "text": "分数",
+      "value": "0",
+      "checked": false
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "取消",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": null,
+      "text": "保存",
+      "value": "",
+      "checked": null
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "type": "button",
+      "text": "Close",
+      "value": "",
+      "checked": null
+    }
+  ]
+}

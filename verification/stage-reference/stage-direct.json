@@ -1,0 +1,280 @@
+{
+  "title": "测评 (Copy)",
+  "url": "https://void-ninth-65613617.figma.site/",
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n配置关卡\n\n一年级AI助手培训计划\n\n保存配置\n1. 划分方式\n\n选择如何将任务划分到不同关卡\n\n手动分配任务到关卡\n\n将已选择的任务手动分配到不同关卡中\n\n关卡数量: 3\n+ 添加关卡\n- 删除关卡\n任务池 (2 个未分配)\n类型：\n全部\n智能体\n线上课\n线下课\n其他\n\nAI情绪管理助手\n\n智能体\n分配\n关卡1\n关卡2\n关卡3\n\nAI学习规划助手\n\n智能体\n分配\n关卡1\n关卡2\n关卡3\n关卡列表\n关卡 1\n(0 个任务)\n\n暂无任务\n\n关卡 2\n(0 个任务)\n\n暂无任务\n\n关卡 3\n(0 个任务)\n\n暂无任务\n\n总任务数: 2 | 已分配: 0 | 未分配: 2\n\n2. 解锁规则\n\n设置下一关卡的解锁条件\n\n完成任务数量\n\n完成指定数量的任务后解锁下一关\n\n需要完成的任务数量\n\n例如：完成2个任务后解锁下一关\n\n完成积分值\n\n达到指定积分值后解锁下一关\n\n完成任务占比\n\n完成指定比例的任务后解锁下一关\n\n完成积分占比\n\n获得指定比例的积分后解锁下一关\n\n配置预览\n\n根据当前配置生成的关卡预览\n\n划分方式：\n解锁规则：\n完成2个任务\n💡 配置说明\n• 第一个关卡默认解锁，其他关卡需满足解锁条件\n• 关卡按顺序依次解锁，不可跳关\n• 保存后将根据配置自动生成关卡结构\n• 可在保存后进一步调整各关卡的详细设置",
+  "controls": [
+    {
+      "index": 0,
+      "tag": "BUTTON",
+      "text": "管理员",
+      "type": "button",
+      "value": "",
+      "html": "<button data-slot=\"dropdown-menu-trigger\" class=\"justify-center whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text"
+    },
+    {
+      "index": 1,
+      "tag": "BUTTON",
+      "text": "测评管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-clipboard-list w-5 h-5 text-gray-600\" aria-hidden=\"true\"><rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\" ry=\"1\"></rect><path d=\"M16 4h2a2 2 0 0 1 2 2"
+    },
+    {
+      "index": 2,
+      "tag": "BUTTON",
+      "text": "测试项目管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">测试项目管理</button>"
+    },
+    {
+      "index": 3,
+      "tag": "BUTTON",
+      "text": "系列测评管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">系列测评管理</button>"
+    },
+    {
+      "index": 4,
+      "tag": "BUTTON",
+      "text": "报告模板管理（待研究）",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">报告模板管理（待研究）</button>"
+    },
+    {
+      "index": 5,
+      "tag": "BUTTON",
+      "text": "测评上下架管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">测评上下架管理</button>"
+    },
+    {
+      "index": 6,
+      "tag": "BUTTON",
+      "text": "测评结果",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">测评结果</button>"
+    },
+    {
+      "index": 7,
+      "tag": "BUTTON",
+      "text": "计划管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calendar w-5 h-5 text-gray-600\" aria-hidden=\"true\"><path d=\"M8 2v4\"></path><path d=\"M16 2v4\"></path><rect width=\"18\" height=\"18\" x=\"3\" y=\"4\" rx=\"2\""
+    },
+    {
+      "index": 8,
+      "tag": "BUTTON",
+      "text": "计划列表",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors bg-blue-50 text-blue-600\">计划列表</button>"
+    },
+    {
+      "index": 9,
+      "tag": "BUTTON",
+      "text": "任务关联管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-link2 lucide-link-2 w-5 h-5 text-gray-600\" aria-hidden=\"true\"><path d=\"M9 17H7A5 5 0 0 1 7 7h2\"></path><path d=\"M15 7h2a5 5 0 1 1 0 10h-2\"></path><"
+    },
+    {
+      "index": 10,
+      "tag": "BUTTON",
+      "text": "关联规则配置",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">关联规则配置</button>"
+    },
+    {
+      "index": 11,
+      "tag": "BUTTON",
+      "text": "任务积分管理",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors\"><div class=\"flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins w-5 h-5 text-gray-600\" aria-hidden=\"true\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6"
+    },
+    {
+      "index": 12,
+      "tag": "BUTTON",
+      "text": "积分规则配置",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"w-full text-left px-3 py-2 rounded-lg transition-colors text-gray-600 hover:bg-gray-50\">积分规则配置</button>"
+    },
+    {
+      "index": 13,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"p-2 text-gray-400 hover:text-gray-600 transition-colors\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-left w-5 h-5\" aria-hidden=\"true\"><path d=\"m12 19-7-7 7-7\"></path><path d=\"M19 12H5\"></path></svg></button>"
+    },
+    {
+      "index": 14,
+      "tag": "BUTTON",
+      "text": "保存配置",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"inline-flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-save w-4 h-4\" aria-hidden=\"true\"><path d=\"M15.2 3a2 2 0 0 1 1.4.6l3.8 3.8a2 2 0 0 1 .6 1.4V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z\"></path><path d=\"M17 21v-7a1 1"
+    },
+    {
+      "index": 15,
+      "tag": "INPUT",
+      "text": "",
+      "type": "radio",
+      "value": "manual-task-assignment",
+      "html": "<input type=\"radio\" name=\"divisionMethod\" class=\"mt-1 w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500\" value=\"manual-task-assignment\" checked=\"\" style=\"\">"
+    },
+    {
+      "index": 16,
+      "tag": "BUTTON",
+      "text": "+ 添加关卡",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-3 py-1 text-xs bg-blue-50 text-blue-600 rounded hover:bg-blue-100\">+ 添加关卡</button>"
+    },
+    {
+      "index": 17,
+      "tag": "BUTTON",
+      "text": "- 删除关卡",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-3 py-1 text-xs bg-gray-100 text-gray-600 rounded hover:bg-gray-200\">- 删除关卡</button>"
+    },
+    {
+      "index": 18,
+      "tag": "INPUT",
+      "text": "搜索任务名称...",
+      "type": "text",
+      "value": "",
+      "html": "<input type=\"text\" placeholder=\"搜索任务名称...\" class=\"w-full pl-9 pr-3 py-1.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\" value=\"\" style=\"\">"
+    },
+    {
+      "index": 19,
+      "tag": "BUTTON",
+      "text": "全部",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-2 py-0.5 text-xs rounded-full transition-colors bg-blue-600 text-white\">全部</button>"
+    },
+    {
+      "index": 20,
+      "tag": "BUTTON",
+      "text": "智能体",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-2 py-0.5 text-xs rounded-full transition-colors bg-gray-100 text-gray-700 hover:bg-gray-200\">智能体</button>"
+    },
+    {
+      "index": 21,
+      "tag": "BUTTON",
+      "text": "线上课",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-2 py-0.5 text-xs rounded-full transition-colors bg-gray-100 text-gray-700 hover:bg-gray-200\">线上课</button>"
+    },
+    {
+      "index": 22,
+      "tag": "BUTTON",
+      "text": "线下课",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-2 py-0.5 text-xs rounded-full transition-colors bg-gray-100 text-gray-700 hover:bg-gray-200\">线下课</button>"
+    },
+    {
+      "index": 23,
+      "tag": "BUTTON",
+      "text": "其他",
+      "type": "",
+      "value": "",
+      "html": "<button class=\"px-2 py-0.5 text-xs rounded-full transition-colors bg-gray-100 text-gray-700 hover:bg-gray-200\">其他</button>"
+    },
+    {
+      "index": 24,
+      "tag": "SELECT",
+      "text": "分配\n关卡1\n关卡2\n关卡3",
+      "type": "",
+      "value": "",
+      "html": "<select class=\"text-xs px-2 py-1 border border-gray-300 rounded focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\"><option value=\"\">分配</option><option value=\"0\">关卡1</option><option value=\"1\">关卡2</option><option value=\"2\">关卡3</option></select>"
+    },
+    {
+      "index": 25,
+      "tag": "SELECT",
+      "text": "分配\n关卡1\n关卡2\n关卡3",
+      "type": "",
+      "value": "",
+      "html": "<select class=\"text-xs px-2 py-1 border border-gray-300 rounded focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\"><option value=\"\">分配</option><option value=\"0\">关卡1</option><option value=\"1\">关卡2</option><option value=\"2\">关卡3</option></select>"
+    },
+    {
+      "index": 26,
+      "tag": "INPUT",
+      "text": "关卡1名称",
+      "type": "text",
+      "value": "关卡1",
+      "html": "<input type=\"text\" placeholder=\"关卡1名称\" class=\"w-full px-2 py-1 text-sm border border-blue-300 rounded bg-white focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\" value=\"关卡1\" style=\"\">"
+    },
+    {
+      "index": 27,
+      "tag": "INPUT",
+      "text": "关卡2名称",
+      "type": "text",
+      "value": "关卡2",
+      "html": "<input type=\"text\" placeholder=\"关卡2名称\" class=\"w-full px-2 py-1 text-sm border border-blue-300 rounded bg-white focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\" value=\"关卡2\" style=\"\">"
+    },
+    {
+      "index": 28,
+      "tag": "INPUT",
+      "text": "关卡3名称",
+      "type": "text",
+      "value": "关卡3",
+      "html": "<input type=\"text\" placeholder=\"关卡3名称\" class=\"w-full px-2 py-1 text-sm border border-blue-300 rounded bg-white focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\" value=\"关卡3\" style=\"\">"
+    },
+    {
+      "index": 29,
+      "tag": "INPUT",
+      "text": "",
+      "type": "radio",
+      "value": "task-count",
+      "html": "<input type=\"radio\" name=\"unlockRule\" class=\"mt-1 w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500\" value=\"task-count\" checked=\"\" style=\"\">"
+    },
+    {
+      "index": 30,
+      "tag": "INPUT",
+      "text": "",
+      "type": "number",
+      "value": "2",
+      "html": "<input type=\"number\" min=\"1\" class=\"w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none\" value=\"2\" style=\"\">"
+    },
+    {
+      "index": 31,
+      "tag": "INPUT",
+      "text": "",
+      "type": "radio",
+      "value": "point-value",
+      "html": "<input type=\"radio\" name=\"unlockRule\" class=\"mt-1 w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500\" value=\"point-value\" style=\"\">"
+    },
+    {
+      "index": 32,
+      "tag": "INPUT",
+      "text": "",
+      "type": "radio",
+      "value": "task-ratio",
+      "html": "<input type=\"radio\" name=\"unlockRule\" class=\"mt-1 w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500\" value=\"task-ratio\" style=\"\">"
+    },
+    {
+      "index": 33,
+      "tag": "INPUT",
+      "text": "",
+      "type": "radio",
+      "value": "point-ratio",
+      "html": "<input type=\"radio\" name=\"unlockRule\" class=\"mt-1 w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500\" value=\"point-ratio\" style=\"\">"
+    }
+  ],
+  "rows": []
+}

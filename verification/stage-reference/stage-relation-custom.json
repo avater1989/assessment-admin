@@ -1,0 +1,95 @@
+{
+  "text": "管理员\n测评管理\n测试项目管理系列测评管理报告模板管理（待研究）测评上下架管理测评结果\n计划管理\n计划列表\n任务关联管理\n关联规则配置\n任务积分管理\n积分规则配置\n配置关卡\n\n个性化学习干预计划（草稿）\n\n保存配置\n1. 划分方式\n\n选择如何将任务划分到不同关卡\n\n按照任务关联规则划分\n\n选择具体的关联规则并分组，可以将多个规则组合成一个关卡\n\n自定义导入规则\n\n上传自定义规则文件或手动配置关卡\n\n点击上传规则文件 (.json, .csv)\n2. 解锁规则\n\n设置下一关卡的解锁条件\n\n完成任务数量\n\n完成指定数量的任务后解锁下一关\n\n完成积分值\n\n达到指定积分值后解锁下一关\n\n完成任务占比\n\n完成指定比例的任务后解锁下一关\n\n完成积分占比\n\n获得指定比例的积分后解锁下一关\n\n需要获得的积分占比 (%)\n\n例如：获得70%的积分后解锁下一关\n\n配置预览\n\n根据当前配置生成的关卡预览\n\n划分方式：\n自定义规则\n解锁规则：\n完成积分占比\n\n上传自定义规则文件后显示预览\n\n💡 配置说明\n• 第一个关卡默认解锁，其他关卡需满足解锁条件\n• 关卡按顺序依次解锁，不可跳关\n• 保存后将根据配置自动生成关卡结构\n• 可在保存后进一步调整各关卡的详细设置",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "value": "",
+      "checked": false,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "value": "",
+      "checked": false,
+      "text": "保存配置",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "divisionMethod",
+      "value": "by-association-rule",
+      "checked": false,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "divisionMethod",
+      "value": "custom",
+      "checked": true,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "value": "",
+      "checked": false,
+      "text": "点击上传规则文件 (.json, .csv)",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "unlockRule",
+      "value": "task-count",
+      "checked": false,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "unlockRule",
+      "value": "point-value",
+      "checked": false,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "unlockRule",
+      "value": "task-ratio",
+      "checked": false,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "unlockRule",
+      "value": "point-ratio",
+      "checked": true,
+      "text": "",
+      "options": []
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "name": "",
+      "value": "70",
+      "checked": false,
+      "text": "",
+      "options": []
+    }
+  ]
+}
